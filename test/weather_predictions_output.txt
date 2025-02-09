@@ -1,0 +1,61 @@
+Weather Forecast Updates:
+
+    Forecast:
+    - Average Temp (F): 84
+    - Max Wind (MPH): 6
+    - Humidity (%): 45
+    - Predicted Temp (F): 88.8
+
+    Forecast:
+    - Average Temp (F): 78
+    - Max Wind (MPH): 10
+    - Humidity (%): 50
+    - Predicted Temp (F): 81.0
+
+    Forecast:
+    - Average Temp (F): 90
+    - Max Wind (MPH): 5
+    - Humidity (%): 55
+    - Predicted Temp (F): 97.5
+
+    Forecast:
+    - Average Temp (F): 88
+    - Max Wind (MPH): 3
+    - Humidity (%): 60
+    - Predicted Temp (F): 97.9
+
+    Forecast:
+    - Average Temp (F): 70
+    - Max Wind (MPH): 8
+    - Humidity (%): 65
+    - Predicted Temp (F): 77.4
+
+    Forecast:
+    - Average Temp (F): 72
+    - Max Wind (MPH): 7
+    - Humidity (%): 70
+    - Predicted Temp (F): 81.1
+
+    Forecast:
+    - Average Temp (F): 68
+    - Max Wind (MPH): 9
+    - Humidity (%): 75
+    - Predicted Temp (F): 76.69999999999999
+
+    Forecast:
+    - Average Temp (F): 85
+    - Max Wind (MPH): 2
+    - Humidity (%): 40
+    - Predicted Temp (F): 91.6
+
+    Forecast:
+    - Average Temp (F): 80
+    - Max Wind (MPH): 15
+    - Humidity (%): 35
+    - Predicted Temp (F): 76.5
+
+    Forecast:
+    - Average Temp (F): 75
+    - Max Wind (MPH): 12
+    - Humidity (%): 30
+    - Predicted Temp (F): 72.6
