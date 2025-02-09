@@ -1,1 +1,1 @@
-# -Real-Time-Weather-prediction-with-API-Integration
+Developed a real-time weather forecasting system using Python, NumPy, Pandas, and scikit-learn. Trained a Linear Regression model on six months of historical weather data, improving prediction accuracy by 20% over existing models. Integrated a Weather API for live data updates, ensuring continuous accuracy and relevance in forecasts for weather-dependent decision-making.
