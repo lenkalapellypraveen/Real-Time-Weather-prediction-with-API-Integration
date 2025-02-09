@@ -1,0 +1,8 @@
+Weather Forecast Updates:
+{% for forecast in future_weather_data %}
+    Forecast:
+    - Average Temp (F): {{ forecast.avgtemp_f }}
+    - Max Wind (MPH): {{ forecast.maxwind_mph }}
+    - Humidity (%): {{ forecast.avghumidity }}
+    - Predicted Temp (F): {{ forecast.predicted_temp }}
+{% endfor %}
