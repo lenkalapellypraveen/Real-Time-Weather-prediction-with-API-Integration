@@ -1,5 +1,7 @@
 # Real-Time Weather Prediction System
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
 ## Project Overview
 The Real-Time Weather Prediction System is a data-driven application that fetches historical weather data, analyzes it using machine learning techniques, and predicts future temperatures based on key meteorological factors. This project demonstrates a complete data science workflow from data acquisition to visualization and prediction.
 
